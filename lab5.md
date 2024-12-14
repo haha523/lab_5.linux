@@ -131,7 +131,7 @@
     ```
     git flow release start v1.0.0
     ```
-     ![image (https://github.com/haha523/lab_5.linux/blob/6299f401c10f37b309b1969d4d25606f2ed7052b/png%20for%20lab5/h%C3%ACnh%20%E1%BA%A3nh%20c%E1%BB%A7a%20git%20flow%20release%20start%20v1.0.0.png)
+     ![image] (https://github.com/haha523/lab_5.linux/blob/6299f401c10f37b309b1969d4d25606f2ed7052b/png%20for%20lab5/h%C3%ACnh%20%E1%BA%A3nh%20c%E1%BB%A7a%20git%20flow%20release%20start%20v1.0.0.png)
     ```                                                                                                                                                                                   
     echo "v1.0.0" > version.txt
     git add version.txt
