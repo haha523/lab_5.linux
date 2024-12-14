@@ -185,7 +185,7 @@
     
 12) Перейдем в наш репозиторий и увидим:
 
-    ![image](https://github.com/haha523/lab_5.linux/blob/a4882f57ff08f838b97961828a74c8161d36eebb/png%20for%20lab5/github%20%20cu%E1%BB%91i%20c%C3%B9ng.png)
+    ![image](https://github.com/haha523/lab_5.linux/blob/4ae453bf19de8886d19d2285f8ab3176af588509/png%20for%20lab5/github%20c%E1%BB%A7a%20develop%20cu%E1%BB%91i%20c%C3%B9ng.png)
 
 
 
