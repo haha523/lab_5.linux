@@ -4,7 +4,7 @@
 Будем работать в Git Bash
 1) Создадим репозиторий `lab_5.linux` и клонируем его с помощью команды
    ```
-   git clone <ссылка на репозиторий>
+   git clone https://github.com/haha523/lab_5.linux.git
    ```
    ![image](https://github.com/haha523/lab_5.linux/blob/b379dd2e261f27ee33281934ff030ae6a70689dc/png%20for%20lab5/h%C3%ACnh%20%E1%BA%A3nh%20git_clone.png)
 
