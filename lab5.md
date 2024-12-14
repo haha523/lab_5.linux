@@ -132,10 +132,13 @@
     git flow release start v1.0.0
     ```
 ![image](https://github.com/haha523/lab_5.linux/blob/28d5ca2e27d0ae908f3322d4b3e692f4c26f7801/png%20for%20lab5/h%C3%ACnh%20%E1%BA%A3nh%20git%20flow%20feature%20start%20task-management.png)
-                                                                                                                                                                                                ```                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                                                                                                                     
+                                                                                                                                                                                            
+   
+    ```                                                                                                                                                                                   
     echo "v1.0.0" > version.txt
     git add version.txt
-    git commit -m "Обновлена версия для релиза v1.0.0"
+    git commit --no-verify-m "Обновлена версия для релиза v1.0.0"
     git flow release finish v1.0.0
     ```
 
