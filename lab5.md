@@ -170,7 +170,7 @@
     git checkout develop
     git push origin develop
     ```
-    ![image](https://github.com/haha523/lab_5.linux/blob/6299f401c10f37b309b1969d4d25606f2ed7052b/png%20for%20lab5/h%C3%ACnh%20%E1%BA%A3nh%20git%20checkout%20develop%20v%C3%A0%20git%20push%20origin%20develop.png)
+![image](https://github.com/haha523/lab_5.linux/blob/ae24e948af73564204f384480547ecdeb68ae93f/png%20for%20lab5/h%C3%ACnh%20%E1%BA%A3nh%20git%20checkout%20develop%20v%C3%A0%20git%20push%20origin%20develop.png)
 
 
 11) Отправим изменения в ветку main
