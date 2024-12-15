@@ -39,6 +39,7 @@
    nano task_1_1.txt
    ```
    ![image](https://github.com/haha523/lab_5.linux/blob/512657df8c8f375109c4b55ea5b50a6b47c67037/png%20for%20lab5/h%C3%ACnh%20%E1%BA%A3nh%20c%E1%BB%A7a%20nano%20task_11.txt.png)
+                                                                                                                                                                                      
    Внесем в него какой-то текст. Главное, чтобы в нем присутствовало слово `Автор`:
    ![image](https://github.com/haha523/lab_5.linux/blob/512657df8c8f375109c4b55ea5b50a6b47c67037/png%20for%20lab5/h%C3%ACnh%20%E1%BA%A3nh%20task_1_1.png)
 
