@@ -130,7 +130,7 @@
 
 7) Создадим релиз при помощи команд:
     ```
-    git flow release start v1.0.0
+    git flow release start task-management
     ```
 ![image](https://github.com/haha523/lab_5.linux/blob/28d5ca2e27d0ae908f3322d4b3e692f4c26f7801/png%20for%20lab5/h%C3%ACnh%20%E1%BA%A3nh%20git%20flow%20feature%20start%20task-management.png)
                                                                                                                                                                                                                                                                                                                                                                                      
